@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/j3pt7pkrtqsp45c3?svg=true)](https://ci.appveyor.com/project/Timurandteam/patternsappcarddelivery)
